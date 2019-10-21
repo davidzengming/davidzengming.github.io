@@ -63,7 +63,9 @@
 }
 
 body {
+    user-select: none;
     color: rgb(28, 28, 30);
+    margin: 0px;
 }
 
 ul {
@@ -101,6 +103,10 @@ a {
 
 .important {
     font-weight: 600;
+}
+
+#main {
+    height: 100%;
 }
 
 #particles-js {
