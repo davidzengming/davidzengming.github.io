@@ -1,2 +1,2 @@
 # davidzengming.github.io
-http://davidzengming.com/
+http://www.davidzengming.com/
